@@ -26,6 +26,7 @@
   },
   "packageManager": "pnpm@7.10.0",
   "dependencies": {
+    "@changesets/cli": "^2.25.0",
     "@commitlint/cli": "^17.1.2",
     "@muravjev/configs-commitlint": "^0.2.0",
     "@muravjev/configs-eslint-ts": "^0.1.4",
