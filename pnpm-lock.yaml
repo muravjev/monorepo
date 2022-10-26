@@ -34,6 +34,9 @@ importers:
       remark-cli: 11.0.0
       syncpack: 8.3.9
 
+  packages/baz:
+    specifiers: {}
+
 packages:
 
   /@babel/code-frame/7.18.6:
