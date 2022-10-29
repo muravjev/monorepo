@@ -1,4 +1,5 @@
 {
   "name": "bar",
-  "private": true
+  "private": true,
+  "main": "src/index.ts"
 }
