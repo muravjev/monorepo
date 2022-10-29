@@ -1,4 +1,4 @@
-type Props = { value: string };
+type Props = { value: number };
 
 const Bar = ({ value }: Props) => {
     return <div>Bar: {value}</div>;
