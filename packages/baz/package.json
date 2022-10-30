@@ -1,0 +1,8 @@
+{
+  "name": "baz",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "main": "src/index.ts"
+}

@@ -1,0 +1,8 @@
+{
+  "extends": "@muravjev/configs-ts",
+  "compilerOptions": {
+    "baseUrl": "src",
+    "rootDir": "src"
+  },
+  "include": ["src"]
+}
