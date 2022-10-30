@@ -1,0 +1,16 @@
+{
+  "name": "foo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "clean": "rimraf .next .build .coverage tsconfig.tsbuildinfo",
+    "export": "pnpm build && next export -o .build",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.0.0"
+  }
+}
